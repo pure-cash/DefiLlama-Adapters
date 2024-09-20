@@ -1,0 +1,3 @@
+{
+    "tokenBalances": "function tokenBalances(address market) external view returns (uint128)"
+}
